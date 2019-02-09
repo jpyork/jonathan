@@ -32,3 +32,9 @@ I like **Jumping through hoops**
 
 ~~I am going to die one day~~
 
+
+``` python
+print( I like to go out.)
+print( Sometimes you cry at night.)
+print(Where are the parties at?)
+```
