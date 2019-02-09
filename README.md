@@ -36,5 +36,5 @@ I like **Jumping through hoops**
 ``` python
 print( I like to go out.)
 print( Sometimes you cry at night.)
-print(Where are the parties at?)
+print(Where are the parties at.)
 ```
